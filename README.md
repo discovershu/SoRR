@@ -1,4 +1,6 @@
 # Learning by Minimizing the Sum of Ranked Range
+Shu Hu, Yiming Ying, Xin Wang, and Siwei Lyu
+_________________
 
 This repository is the official implementation of our paper "Learning by Minimizing the Sum of Ranked Range". 
 
