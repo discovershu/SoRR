@@ -94,3 +94,14 @@ python AoRR/plot_synthetic_result.py
 ```train
 python AoRR/plot_real_data_misclassification.py
 ```
+
+## Citation
+Please kindly consider citing our paper in your publications. 
+```bash
+@inproceedings{hu2020sorr,
+  title={Learning by Minimizing the Sum of Ranked Range},
+  author={Hu, Shu and Ying, Yiming and Wang, Xin and Lyu, Siwei},
+  booktitle= {NeurIPS},
+  year={2020}
+}
+```
