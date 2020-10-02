@@ -2,7 +2,7 @@
 Shu Hu, Yiming Ying, Xin Wang, and Siwei Lyu
 _________________
 
-This repository is the official implementation of our paper "Learning by Minimizing the Sum of Ranked Range". 
+This repository is the official implementation of our paper "Learning by Minimizing the Sum of Ranked Range", which has been accepted by **NeurIPS 2020**. 
 
 
 ## Requirements
