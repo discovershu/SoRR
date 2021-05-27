@@ -4,7 +4,7 @@
 Shu Hu, Yiming Ying, Xin Wang, and Siwei Lyu
 _________________
 
-This repository is the official implementation of our paper "Learning by Minimizing the Sum of Ranked Range", which has been accepted by **NeurIPS 2020**. 
+This repository is the official implementation of our paper "Learning by Minimizing the Sum of Ranked Range", which has been accepted by **NeurIPS 2020**. Two new methods (AoRR_multiclass, TKML_AoRR) for the Journal submission review. 
 
 
 ## Requirements
@@ -96,6 +96,13 @@ python AoRR/plot_synthetic_result.py
 ```train
 python AoRR/plot_real_data_misclassification.py
 ```
+
+## How to run AoRR_multiclass method
+
+```train
+python AoRR/plot_real_data_misclassification.py
+```
+
 
 ## Citation
 Please kindly consider citing our paper in your publications. 
