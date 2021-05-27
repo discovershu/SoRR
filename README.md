@@ -100,7 +100,13 @@ python AoRR/plot_real_data_misclassification.py
 ## How to run AoRR_multiclass method
 
 ```train
-python AoRR/plot_real_data_misclassification.py
+python AoRR_multiclass/AoRR_Run_MNIST_noise.py
+```
+
+## How to run TKML_AoRR method
+
+```train
+python TKML_multiclass/run_TKML_multiclass.py
 ```
 
 
