@@ -4,7 +4,9 @@
 Shu Hu, Yiming Ying, Xin Wang, and Siwei Lyu
 _________________
 
-This repository is the official implementation of our paper "Learning by Minimizing the Sum of Ranked Range", which has been accepted by **NeurIPS 2020**. Two new methods (AoRR_multiclass, TKML_AoRR) for the Journal submission review. 
+This repository is the official implementation of our paper "Learning by Minimizing the Sum of Ranked Range", which has been accepted by **NeurIPS 2020**. 
+
+This is also the official implementation of our paper "Sum of Ranked Range Loss for Supervised Learning", which has been accepted by **JMLR 2022**. 
 
 
 ## Requirements
@@ -111,12 +113,21 @@ python TKML_multiclass/run_TKML_multiclass.py
 
 
 ## Citation
-Please kindly consider citing our paper in your publications. 
+Please kindly consider citing our papers in your publications. 
 ```bash
 @inproceedings{hu2020sorr,
   title={Learning by Minimizing the Sum of Ranked Range},
   author={Hu, Shu and Ying, Yiming and Wang, Xin and Lyu, Siwei},
   booktitle= {NeurIPS},
   year={2020}
+}
+```
+
+```bash
+@article{hu2021sum,
+  title={Sum of Ranked Range Loss for Supervised Learning},
+  author={Hu, Shu and Ying, Yiming and Wang, Xin and Lyu, Siwei},
+  journal={Journal of Machine Learning Research},
+  year={2022}
 }
 ```
