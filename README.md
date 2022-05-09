@@ -124,10 +124,14 @@ Please kindly consider citing our papers in your publications.
 ```
 
 ```bash
-@article{hu2021sum,
-  title={Sum of Ranked Range Loss for Supervised Learning},
-  author={Hu, Shu and Ying, Yiming and Wang, Xin and Lyu, Siwei},
-  journal={Journal of Machine Learning Research},
-  year={2022}
+@article{JMLR:v23:21-0622,
+  author  = {Shu Hu and Yiming Ying and Xin Wang and Siwei Lyu},
+  title   = {Sum of Ranked Range Loss for Supervised Learning},
+  journal = {Journal of Machine Learning Research},
+  year    = {2022},
+  volume  = {23},
+  number  = {112},
+  pages   = {1-44},
+  url     = {http://jmlr.org/papers/v23/21-0622.html}
 }
 ```
